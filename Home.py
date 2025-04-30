@@ -13,12 +13,12 @@ with col2:
     logo = ("https://i.imgur.com/K1rwgKG.png")
     st.image(logo, width=150)
 st.markdown(
-    "<h3 style='text-align: left; color: #6B4226;'>Step into the world of emotions :cloud: </h3>",
+    "<h3 style='text-align: left; color: #6B4226;'>Step into the world of emotions ☁️ </h3>",
     unsafe_allow_html=True
 )
 st.markdown("---")
 st.markdown(
-    "<h2 style='color: #704214;'> Unsean Struggles: Mapping the Invisible Walls of Social Anxiety :worried::door: </h2>",
+    "<h2 style='color: #704214;'> Unsean Struggles: Mapping the Invisible Walls of Social Anxiety 😟🚪 </h2>",
     unsafe_allow_html=True
 )
 st.write(
@@ -35,7 +35,7 @@ st.write(
 )
 st.markdown("---")
 st.markdown(
-    "<h2 style='color: #704214;'> The Challenge :rocket::fire: </h2>",
+    "<h2 style='color: #704214;'> The Challenge 🚀🔥 </h2>",
     unsafe_allow_html=True
 )
 st.write(
@@ -45,7 +45,7 @@ st.write(
 )
 st.markdown("---")
 st.markdown(
-    "<h2 style='color: #704214;'> Conquering Social Anxiety Together :bulb::star-struck: </h2>",
+    "<h2 style='color: #704214;'> Conquering Social Anxiety Together 💡⭐️🤩 </h2>",
     unsafe_allow_html=True
 )
 st.write(
